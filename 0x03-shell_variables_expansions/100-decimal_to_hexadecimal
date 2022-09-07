@@ -1,2 +1,2 @@
 #!/bin/bash
-$ printf "%d %x\n" $((16#55)) $(($DECIMAL#85))
+$ printf "%d %x\n"  $(($DECIMAL#85)) $((16#55))
